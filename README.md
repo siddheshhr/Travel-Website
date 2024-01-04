@@ -23,3 +23,7 @@ Wanderlust is a travel website designed to inspire and assist users in planning 
 
    ```bash
    git clone https://github.com/your-username/wanderlust-travel.git
+
+
+   ![image](https://github.com/siddheshhr/Travel-Website/assets/139670479/b0c7f6a9-2e20-4c3c-a732-a6821014a9f4)
+
